@@ -18,7 +18,7 @@ Appreciate your time spent reading my profile, and be sure to call me if you got
 </a>
 
    
-# Conhecimentos 🔍
+# Knowledge 🔍
 <br>
 
 <div>

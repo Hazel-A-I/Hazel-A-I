@@ -1,7 +1,7 @@
 # Hey! 👋🖥️🎮
 
 <br>
-Hello, I'm Hazel Arcangelo, and I'm currently looking for an opportunity, I am 19yrs old and I've been studying for quite a while, yet I need to get more experience. <br><br>
+Hello, I'm Hazel Arcangelo, and I'm currently looking for an opportunity, I am 20yrs old and I've been studying for quite a while, yet I need to get more experience. <br><br>
 
 Currently I've finished a program called +Devs2Blu, where we students are assisted to become developers ready for entering the market, and on the Flutter class, I've learned to make cross-platform apps alongside other technologies, such as PostGreSQL, Firebase, basic REST in Node.js, and also agile methodologies.<br>
 

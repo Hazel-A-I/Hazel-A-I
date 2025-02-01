@@ -5,7 +5,9 @@ Hello, I'm Hazel Arcangelo, and I'm currently looking for an opportunity, I am 2
 
 Currently I've finished a program called +Devs2Blu, where we students are assisted to become developers ready for entering the market, and on the Flutter class, I've learned to make cross-platform apps alongside other technologies, such as PostGreSQL, Firebase, basic REST in Node.js, and also agile methodologies.<br>
 
-I'm currently making my own portfolio and personal projects later on there will be more projects such as a forum-like app on react.<br>
+I also had experience during my time on Ambisis, where I got the hang of the actual work as a developer, using Next.js, Typescript, and other techs related.
+
+I'm making my own portfolio and personal projects later on there will be more projects such as a forum-like app on Angular and C#.<br>
 
 Appreciate your time spent reading my profile, and be sure to call me if you got interested on talking to me directly, I'm always open to opportunities and improvements!
 

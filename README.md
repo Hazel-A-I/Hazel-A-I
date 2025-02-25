@@ -7,7 +7,7 @@ Currently I've finished a program called +Devs2Blu, where we students are assist
 
 I also had experience during my time on Ambisis, where I got the hang of the actual work as a developer, using Next.js, Typescript, and other techs related.
 
-I'm making my own portfolio and personal projects later on there will be more projects such as a forum-like app on Angular and C#.<br>
+I'm making my own portfolio and personal projects, later on there will be more projects such as a forum-like app using Python and Django<br>
 
 Appreciate your time spent reading my profile, and be sure to call me if you got interested on talking to me directly, I'm always open to opportunities and improvements!
 

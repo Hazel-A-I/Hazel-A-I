@@ -1,6 +1,6 @@
 # Hi, I'm Hazel Arcangelo. 
 
-### I am a 21-year-old developer currently building solutions at Senior Sistemas SA. I focus on creating efficient applications using modern stacks and agile methodologies.
+### I am a 22-year-old developer currently building solutions at Senior Sistemas SA. I focus on creating efficient applications using modern stacks and agile methodologies.
 
 Professional Experience & Education
 
